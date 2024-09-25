@@ -8,7 +8,7 @@ namespace OOPInC_.Week1
 {
     internal class Task2
     {
-        public static void Main1(string[] args)
+        public static void Main(string[] args)
         {
             Random random = new Random(2024);
             Console.WriteLine("Enter number of elements: ");

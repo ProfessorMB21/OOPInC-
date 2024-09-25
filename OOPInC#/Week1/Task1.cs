@@ -8,7 +8,7 @@ namespace OOPInC_.Week1
 {
     internal class Task1
     {
-        public static void Maiin(string[] args)
+        public static void Main(string[] args)
         {
 
             Color color;
